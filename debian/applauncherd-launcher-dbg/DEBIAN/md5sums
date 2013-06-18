@@ -1,0 +1,9 @@
+5f3850acd0a8ffa451365cf7587bb2c2  usr/lib/debug/usr/bin/applauncherd.bin
+2c15593a5d93b4c9cc0cc1374be8a2cd  usr/lib/debug/usr/lib/applauncherd/libapplauncherd.so
+c29d730fb58782a7707f2231e0b5ee3d  usr/lib/debug/usr/lib/applauncherd/libebooster.so
+262ca401d28d4d0777e9cf25147d139d  usr/lib/debug/usr/lib/applauncherd/libmbooster.so
+29b189350ee78bd61453e902a770a202  usr/lib/debug/usr/lib/applauncherd/libqdeclarativebooster.so
+0a4cf8d1ab2444f434f2699fb1398ab4  usr/lib/debug/usr/lib/applauncherd/libqtbooster.so
+4aea4251c810e572a10dbdbae2c9081a  usr/lib/debug/usr/lib/libmdeclarativecache.so.0.1
+d7e49533fc5648cfa0a2f66790b9cf52  usr/share/doc/applauncherd-launcher-dbg/changelog.gz
+d84e92b30341e800a6d933150b0d5674  usr/share/doc/applauncherd-launcher-dbg/copyright

@@ -1,0 +1,12 @@
+Package: applauncherd-launcher-dbg
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 3608
+Depends: applauncherd-launcher (= 3.0.3+0m8)
+Section: debug
+Priority: extra
+Description: Launcher debug package
+ Debug symbols for launcher
+Aegis-Manifest: empty

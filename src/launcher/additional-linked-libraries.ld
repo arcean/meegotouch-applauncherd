@@ -1,0 +1,1 @@
+-lcontactswidgets -ldatepicker2 -llocationpicker -llocationextras -lSignOnUI -lmeegocontrol -lmessagingif0 -lresource -lsaveas -lsignon-qt -lduicontrolpanel -lnss_files -lsensordatatypes -lsensorclient -liphb -lQtDeclarative -lresolv -lXrandr -lXcomposite -ldl -lpthread -lm -lrt 

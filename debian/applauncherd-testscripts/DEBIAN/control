@@ -1,0 +1,12 @@
+Package: applauncherd-testscripts
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 304
+Depends: applauncherd-testapps, testrunner-lite, applauncherd, ci-testing, testability-driver, libcreds2, libcreds2-tools, meego-env, mcetools (>= 1.10.40), rdoc, python2.6, ruby, xresponse, x11-utils, python-pyside.qtcore, python-pyside.qtdeclarative, python-pyside.qtgui, sysstat
+Section: admin
+Priority: extra
+Description: applauncherd testscripts
+ Testscripts for testing applauncherd
+Aegis-Manifest: empty

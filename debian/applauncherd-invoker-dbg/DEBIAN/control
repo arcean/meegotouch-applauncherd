@@ -1,0 +1,12 @@
+Package: applauncherd-invoker-dbg
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 92
+Depends: applauncherd-invoker (= 3.0.3+0m8)
+Section: debug
+Priority: extra
+Description: Invoker debug package
+ Debug symbols for invoker
+Aegis-Manifest: empty

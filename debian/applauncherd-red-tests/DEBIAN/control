@@ -1,0 +1,13 @@
+Package: applauncherd-red-tests
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 48
+Depends: applauncherd-testapps, applauncherd-testscripts
+Section: admin
+Priority: extra
+Description: Tests related to bugs and new features for applauncherd
+Aegis-Manifest: empty
+Maemo-Ci-Packages: applauncherd
+Maemo-Ci-Stage: fast, staging

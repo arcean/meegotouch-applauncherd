@@ -1,0 +1,14 @@
+Package: applauncherd-single-instance
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 64
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0), libx11-6 (>= 0)
+Section: admin
+Priority: important
+Description: Single instance binary for applauncherd
+ Brings the already existing application window to foreground or
+ executes new instance if not already running.
+ Allows command line parameter --single-instance for invoker.
+Aegis-Manifest: included

@@ -1,0 +1,11 @@
+Package: applauncherd-testapps-dbg
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 4256
+Depends: applauncherd-testapps (= 3.0.3+0m8)
+Section: debug
+Priority: extra
+Description: debug symbols for applauncherd testapps
+Aegis-Manifest: empty

@@ -1,0 +1,13 @@
+Package: applauncherd-libmeegotouch-perf-tests
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 48
+Depends: applauncherd-testapps, applauncherd-testscripts
+Section: admin
+Priority: extra
+Description: applauncherd performance tests for libmeegotouch applications
+Aegis-Manifest: empty
+Maemo-Ci-Packages: applauncherd
+Maemo-Ci-Stage: fast

@@ -1,0 +1,7 @@
+S 15 com.nokia.maemo H 40 d1bf2008efcbe596146ca45c92afeb33bfb14e67 R 49 usr/lib/debug/usr/lib/libmdeclarativecache.so.0.1
+S 15 com.nokia.maemo H 40 888d86834549e76559b4e927d13c34e3a6df4249 R 60 usr/lib/debug/usr/lib/applauncherd/libqdeclarativebooster.so
+S 15 com.nokia.maemo H 40 8f989fa5665e8c3ee0abbe68e5fd0d88d54d279f R 50 usr/lib/debug/usr/lib/applauncherd/libqtbooster.so
+S 15 com.nokia.maemo H 40 c629c635b3e748d43017f8e4cbbcb5e06e26b316 R 49 usr/lib/debug/usr/lib/applauncherd/libmbooster.so
+S 15 com.nokia.maemo H 40 11687ac7e9df53c3fe59bdfbf3b5fa50878fd83c R 53 usr/lib/debug/usr/lib/applauncherd/libapplauncherd.so
+S 15 com.nokia.maemo H 40 6134651c9d52f02e930f8e33398a14717bde534b R 49 usr/lib/debug/usr/lib/applauncherd/libebooster.so
+S 15 com.nokia.maemo H 40 61e082eb3896be140061b799c8b12a4ffb20eff7 R 38 usr/lib/debug/usr/bin/applauncherd.bin

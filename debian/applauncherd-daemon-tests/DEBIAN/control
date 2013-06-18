@@ -1,0 +1,14 @@
+Package: applauncherd-daemon-tests
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 52
+Depends: applauncherd-testapps, applauncherd-testscripts
+Section: admin
+Priority: extra
+Description: applauncherd functional tests for daemon
+ Functional tests for testing applauncherd.
+Aegis-Manifest: empty
+Maemo-Ci-Packages: applauncherd
+Maemo-Ci-Stage: fast, staging

@@ -1,0 +1,12 @@
+Package: applauncherd-single-instance-dbg
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 140
+Depends: applauncherd-single-instance (= 3.0.3+0m8)
+Section: debug
+Priority: extra
+Description: applauncherd single-instance debug package
+ Debug symbols for single-instance binary
+Aegis-Manifest: empty

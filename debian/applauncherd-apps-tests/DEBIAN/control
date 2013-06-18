@@ -1,0 +1,13 @@
+Package: applauncherd-apps-tests
+Source: applauncherd
+Version: 3.0.3+0m8
+Architecture: armel
+Maintainer: Alexey Shilov <alexey.shilov@nokia.com>
+Installed-Size: 48
+Depends: applauncherd-testapps, applauncherd-testscripts
+Section: admin
+Priority: extra
+Description: applauncherd tests for applications dependent on applauncherd
+Aegis-Manifest: empty
+Maemo-Ci-Packages: facebookqml
+Maemo-Ci-Stage: acceptance, validation
